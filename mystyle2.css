@@ -1,0 +1,46 @@
+h1{
+    font-size: bold;
+    text-align:center;
+}
+
+.box{
+    height:600px;
+    border:2px solid yellow;
+    padding-left:40px;
+    padding-top:20px;
+    margin:30px;
+    background-color: gray;
+    font-weight:bold;
+    color:white;
+
+}
+
+.box1{
+    height:600px;
+    padding-left:40px;
+    border:2px solid green;
+    padding-top:20px;
+    margin:30px;
+    background-color: maroon;
+    font-weight:bold;
+    color:white;
+}
+.box2{
+    height:600px;
+    padding-left:40px;
+    border:2px solid black;
+    padding-top:20px;
+    margin:30px;
+    background-color:skyblue;
+    font-weight:bold;
+    color:white;
+
+}
+.nav-link:hover{
+    background-color: yellowgreen;
+
+}
+span{
+    text-align: right;
+}
+
